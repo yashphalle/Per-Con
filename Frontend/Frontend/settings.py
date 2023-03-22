@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-pgbf*rv#nfsu&!z9_+k%8v7jo1e-35aznau!8z$2k!-!f647%2
 DEBUG = True
 # DEBUG= False
 # ALLOWED_HOSTS = ['127.0.0.1:8000','perconhealth.herokuapp.com']
-ALLOWED_HOSTS = ['127.0.0.1:8000','127.0.0.1' ]
+ALLOWED_HOSTS = ['127.0.0.1:80']
 
 
 # Application definition
